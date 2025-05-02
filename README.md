@@ -205,7 +205,7 @@ void client() {
 
 
 ## OUTPUT
-![Alt text](<../Screenshot at 2025-05-02 06-02-31.png>)
+![Alt text](./ex03img/ex03-2.png)
 
 
 # RESULT:
